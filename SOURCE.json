@@ -1,0 +1,8 @@
+{
+  "name": "safe-ai-cleanup",
+  "description": "Manage disposable AI-created scratch files within an explicitly authorized project's dedicated scratch folder.",
+  "source": "original",
+  "category": "personal",
+  "adaptations": [],
+  "created": "2026-10-22"
+}
