@@ -1,0 +1,6 @@
+interface:
+  display_name: "Safe AI Cleanup"
+  short_description: "Clean recorded AI scratch files within an allowed project"
+  default_prompt: "Use $safe-ai-cleanup to manage this project's disposable AI scratch files."
+policy:
+  allow_implicit_invocation: true
